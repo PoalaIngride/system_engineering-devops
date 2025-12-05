@@ -1,2 +1,3 @@
 #!/bin/bash
-declare -p
+# 5-local_variables
+set
